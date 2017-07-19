@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/rationalcode/exp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/rationalcode/selectMenu.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\android_app\" />
